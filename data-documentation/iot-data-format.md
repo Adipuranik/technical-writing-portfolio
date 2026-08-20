@@ -40,13 +40,6 @@ Example:
 <temperature unit="Celsius">28.6</temperature>
 ```
 
-## Validation Notes
-
-* XML must contain one root element.
-* Every opening tag must have a closing tag.
-* Element names should use consistent formatting.
-* Sensor values should contain valid data.
-
 ## Intended Audience
 
 Developers, technical support teams, and users working with IoT sensor data.
